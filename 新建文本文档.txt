@@ -1,1 +1,2 @@
 可以断开现有仓库连接另外一个仓库
+Creating a new branch is quick.
